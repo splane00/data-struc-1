@@ -1,0 +1,11 @@
+A B + C -
+A B C + -
+A B - C + D E F - + $
+A B C D E - + $ * E F * -
+A B C + * C B A - + *
+ERROR: Invalid expression
+ERROR: Invalid expression
+ERROR: Invalid expression
+A B C + $ C B A - + *
+A B 0 + / C B A + - /
+A B C ^ $ C B A - + *
